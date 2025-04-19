@@ -1,0 +1,4 @@
+cvzone
+streamlit
+google.generativeai
+mediapipe
