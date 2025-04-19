@@ -10,3 +10,7 @@ Seamless integration with Google Gemini AI to interpret and solve math problems
 Interactive UI built with Streamlit for live feedback and user control
 
 A futuristic, educational, and accessible approach to human-computer interaction
+
+NOTE: use your own image for png or jpeg format 
+Also, keep in mind about your video capture. Some machines use 0 as default camera and some uses 1
+e.g, cap = cv2.VideoCapture(0) ## here in my case its 0
